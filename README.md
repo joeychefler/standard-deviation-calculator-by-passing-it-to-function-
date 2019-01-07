@@ -1,0 +1,2 @@
+# standard-deviation-calculator-by-passing-it-to-function-
+This program calculates the standard deviation of a individual series using arrays. Visit this page to learn about Standard Deviation.  To calculate the standard deviation, calculateSD() function is created. The array containing 10 elements is passed to the function and this function calculates the standard deviation and returns it to the main() function.
